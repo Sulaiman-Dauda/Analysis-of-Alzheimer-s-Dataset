@@ -10,6 +10,6 @@ _**Technology**_: R, ggplot2, caret, brglm, pROC.
 
 _**Results**_: The analysis revealed that variables such as education level (EDUC) and clinical dementia rating (CDR) significantly impact Alzheimer’s diagnosis. The logistic regression model achieved perfect accuracy and AUC on the testing set. Feature selection identified EDUC, CDR, eTIV, and nWBV as key predictors for disease classification.
 
-_**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
+_**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/code.R)
 
 _**Presentation**_: [PDF](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/Presentation.pdf)
